@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GroundbreakerLhy/CCF-Rank.git"
+    "url": "git+https://github.com/Mingjie-Cao/CCF-Rank.git"
   },
   "author": "GroundbreakerLhy",
   "bugs": {
-    "url": "https://github.com/GroundbreakerLhy/CCF-Rank/issues"
+    "url": "https://github.com/Mingjie-Cao/CCF-Rank/issues"
   },
-  "homepage": "https://github.com/GroundbreakerLhy/CCF-Rank#readme",
+  "homepage": "https://github.com/Mingjie-Cao/CCF-Rank#readme",
   "license": "AGPL-3.0-or-later",
   "scripts": {
     "start": "zotero-plugin serve",
